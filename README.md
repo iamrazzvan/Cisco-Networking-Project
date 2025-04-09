@@ -2,7 +2,7 @@
 
 ### Network project using Cisco
 
-I have created a Cisco network project, designing and configuring a network topology with multiple subnets. The network has a main IP address of 147.227.155.0/24, and the subnets are allocated to cover different infrastructure segments.
+I have created a Cisco network project, designing and configuring a network topology with multiple subnets. The network has a main IP address of 162.171.43.128/25, and the subnets are allocated to cover different infrastructure segments.
 
 The topology includes routers, switches, servers (DHCP, DNS, WEB), and network devices such as computers, laptops, and a wireless access point. I have segmented the network based on the needs of each subnet, optimizing IP address allocation, routing, and connectivity.
 
